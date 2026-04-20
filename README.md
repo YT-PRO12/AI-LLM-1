@@ -15,3 +15,5 @@ Languages: Python, SQL
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ML Techniques: Regression, Classification, Clustering
 Tools: Jupyter Notebook, Git, Excel, Power BI
+
+[AI LLM Project](https://github.com/YT-PRO12/AI-LLM-1)
