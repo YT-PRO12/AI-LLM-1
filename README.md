@@ -1,19 +1,16 @@
-Data Science & Machine Learning Projects
+Zomato Data Analytics Project
 
-Welcome to my GitHub repository! This space showcases my work in Data Analysis, Machine Learning, and Data Science, where I explore datasets, build predictive models, and derive meaningful insights.
+This project analyzes Zomato restaurant data using Python. The main goal of the project is to explore restaurant ratings, online orders, restaurant types, and customer trends through data analysis and visualization.
 
-🚀 About Me
-
-I’m passionate about turning raw data into actionable insights. My work focuses on:
-
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Machine Learning Model Building
-Data Visualization & Storytelling
-🧠 Skills & Tools
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-ML Techniques: Regression, Classification, Clustering
-Tools: Jupyter Notebook, Git, Excel, Power BI
-
-[AI LLM Project](https://github.com/YT-PRO12/AI-LLM-1)
+Technologies Used
+Python
+Pandas
+Matplotlib
+Jupyter Notebook
+Features
+Data Cleaning
+Data Visualization
+Ratings Analysis
+Restaurant Type Analysis
+Online Order Analysis
+Author
